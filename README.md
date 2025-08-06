@@ -89,7 +89,7 @@ Create a `.env` file in the project root:
 
 ```env
 # Database
-MONGO_URI=mongodb://localhost:27017/learn-mern
+MONGO_URI=mongodb://localhost:27017/products-store
 
 # Server
 PORT=5000
