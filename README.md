@@ -11,8 +11,8 @@ A full-stack MERN (MongoDB, Express.js, React, Node.js) application for learning
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
-cd learn-mern
+git clone https://github.com/hichamweblog/products-store
+cd products-store
 
 # Install dependencies
 pnpm install
